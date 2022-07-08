@@ -6,15 +6,15 @@ Author:                    Zheng Zhu
 
 DESCRIPTION
 -------------------------------------------------------------------------------
-We present python code for training and deploying machine learning model.
+we present python code for training and deploying machine learning model.
 -------------------------------------------------------------------------------
 
 REQUIREMENTS
 -------------------------------------------------------------------------------
-Python3
-NumPy
-SciPy
-Pandas
+python3
+numPy
+sciPy
+pandas
 scikit-learn
 featuretools
 pickle
